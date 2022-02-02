@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mike or Michael
-- 1 1/2 years of exprience coding
+- 1 1/2 years of exprience coding, i am proficient in javascript front end, ruby, ruby on rails, node.js, mongoose, Sql, mongoDB, HTML5, CSS,
 - 👀 I’m interested in All coding languages
 - 🌱 I’m currently learning javascript back end, css,html5, mongodb, mongoose, reactjs
 - 💞️ I’m looking to collaborate on any new projects and currently working on personal projects
