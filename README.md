@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike or Michael
 - 1 1/2 years of exprience coding, i am proficient in javascript front end, ruby, ruby on rails, node.js, mongoose, Sql, mongoDB, HTML5, CSS
 - 👀 I’m interested in All coding languages
-- 🌱 I’m currently learning javascript back end, css,html5, mongodb, mongoose, reactjs
+- 🌱 I’m currently learning: reactjs, php, python
 - 💞️ I’m looking to collaborate on any new projects and currently working on personal projects
 - 📫 How to reach me instagram: index.js.exe, linkedIn: michael mcbean or email: akado_knight@yahoo.com
 
